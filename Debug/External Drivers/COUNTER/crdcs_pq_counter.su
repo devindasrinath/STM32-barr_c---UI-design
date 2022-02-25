@@ -1,0 +1,2 @@
+crdcs_pq_counter.c:12:6:counter_init	16	static
+crdcs_pq_counter.c:20:6:counter	40	static

@@ -1,0 +1,4 @@
+crdcs_pq_adder.c:14:6:adder_init	16	static
+crdcs_pq_adder.c:22:6:adder	32	static
+crdcs_pq_adder.c:82:16:request_number_ui	40	static
+crdcs_pq_adder.c:105:16:checking_number_keypad	24	static

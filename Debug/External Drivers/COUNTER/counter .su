@@ -1,0 +1,2 @@
+counter .c:12:6:counter_init	16	static
+counter .c:20:6:counter	40	static

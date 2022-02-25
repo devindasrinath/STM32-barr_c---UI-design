@@ -1,0 +1,2 @@
+crdcs_pq_main_menu.c:11:6:menu_init	16	static
+crdcs_pq_main_menu.c:19:6:menu_select	16	static

@@ -1,0 +1,2 @@
+main_menu.c:7:6:menu_init	16	static
+main_menu.c:15:6:menu_select	16	static

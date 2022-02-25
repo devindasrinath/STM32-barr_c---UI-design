@@ -1,0 +1,4 @@
+adder.c:16:6:adder_init	16	static
+adder.c:24:6:adder	32	static
+adder.c:84:16:request_number_ui	40	static
+adder.c:107:16:checking_number_keypad	24	static

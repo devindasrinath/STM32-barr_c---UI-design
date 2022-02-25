@@ -1,0 +1,3 @@
+timer.c:12:6:timer_init	16	static
+timer.c:20:6:timer	40	static
+timer.c:96:6:timer_ticks_increment	4	static
